@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.chrislehmann</groupId>
+  <artifactId>android-voip-service</artifactId>
+  <version>1.0.1</version>
+  <versioning>
+    <versions>
+      <version>1.0.1</version>
+    </versions>
+    <lastUpdated>20130910214458</lastUpdated>
+  </versioning>
+</metadata>
